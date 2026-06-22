@@ -2,7 +2,7 @@
 site de viagens
 # Buenas Viagens
 
-Projeto desenvolvido para a disciplina de Desenvolvimento Web.
+Projeto desenvolvido para a disciplina de tecnologias da internet 
 
 ## Tecnologias utilizadas
 
